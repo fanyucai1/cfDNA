@@ -4,16 +4,16 @@
 
 ##  DNA输入量与Duplex Coverage之间的关系
 
-![DNA输入量与Duplex Coverage之间的关系](./image2.png)
+<img src="https://github.com/fanyucai1/ctDNA/blob/master/image2.png" width="400px" height="400px"/>
 
 ##  浓度与Duplex Coverage之间的关系
 
-![浓度与Duplex Coverage之间的关系](./image3.png)
+<img src="https://github.com/fanyucai1/ctDNA/blob/master/image3.png" width="400px" height="400px"/>
 
 ##  样本输入量与分子量之间的关系
 
-![样本输入量与分子量之间的关系](./image4.png)
+<img src="https://github.com/fanyucai1/ctDNA/blob/master/image4.png" width="400px" height="400px"/>
 
 ##  LOD与样本输入量以及coverage之间的关系
 
-![LOD与样本输入量以及coverage之间的关系](./image5.png)
+<img src="https://github.com/fanyucai1/ctDNA/blob/master/image5.png" width="400px" height="400px"/>
