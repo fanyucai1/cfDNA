@@ -2,7 +2,7 @@
 
 ![原始测序深度与Duplex Coverage之间的关系](./image1.png)
 
-<img src="https://github.com/fanyucai1/ctDNA/blob/master/image1.png" width="50"/>
+<img src="https://github.com/fanyucai1/ctDNA/blob/master/image1.png" width="50px"/>
 
 ##  DNA输入量与Duplex Coverage之间的关系
 
