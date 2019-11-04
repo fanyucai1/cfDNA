@@ -18,3 +18,6 @@
 
 <img src="https://github.com/fanyucai1/ctDNA/blob/master/image5.png" width="400px" height="400px"/>
 
+##  ctDNA起始量与敏感性之间的关系
+
+<img src="https://github.com/fanyucai1/ctDNA/blob/master/image6.png" width="400px" height="400px"/>
